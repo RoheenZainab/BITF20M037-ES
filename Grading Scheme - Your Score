@@ -1,0 +1,32 @@
+
+Total Marks: 10
+Absolute Weightage: 0.5/25
+
+String concatenation: 0.5
+Substring fetching: 0.5
+String interpolation: 0.5
+Array declaration and initialization: 0.5
+
+Array iteration: 1
+	Using for loop: 0.5
+	Using foreach loop: 0.5
+
+Sum of array elements (use do-while loop):1
+Finding the maximum value (using while loop): 1
+
+Array reversal: 0.5
+
+Boxing: 1
+	Integer: 0.5
+	Double: 0.5
+
+Unboxing: 2
+	a: 1
+	b: 1
+
+Dynamic variables: 1.5
+	a: 0.75
+	b: 0.75
+--------------------------------------------------------------------------------
+Your Score: 9/10
+You should make one Main function to show working of all other functions. The main function should be at the end of the file.. This is the good coding approach! 
