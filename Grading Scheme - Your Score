@@ -1,0 +1,26 @@
+Total Marks: 10
+
+Build Success: 1
+Clean Code: 1
+	Proper Naming Convention: 0.5
+	Proper Indentation: 0.5
+Classes are Designed as per requirements: 2
+CalculatePrice - Business Critical Function: 1
+assignDriver - Service Critical Function: 1
+Input Validations for Location: 1 
+User-interface is managed properly: 1
+Any of Update function is done correctly: 1
+Followed all submission guidelines: 1
+--------------------------------------------------
+Your Score: 7/10
+
+Build Success: 1
+Clean Code: 1
+Classes are Designed as per requirements: 1 (All requirements are not met)
+CalculatePrice - Business Critical Function: 0.5 (Not complete)
+assignDriver - Service Critical Function: 0.5 (Ride Type is not matched)
+Input Validations for Location: 1 
+User-interface is managed properly: 1
+Any of Update function is done correctly: 0 (Update is not correct and complete)
+Followed all submission guidelines: 1
+--------------------------------------------------	
